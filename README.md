@@ -1,4 +1,7 @@
 Hey I am Ayaan 😀 🤓
+I am ...
+Learning
+
 
 ### Github Analytics
 <p align="left">
