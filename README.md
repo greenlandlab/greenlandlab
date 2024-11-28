@@ -83,6 +83,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/greenlandlab/greenlandlab/output/snake.svg" alt="Snake animation" />
-
 ###
