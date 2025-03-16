@@ -4,7 +4,7 @@ You have discovered my profile! Here you can find some information about me who 
 
  ## About Me
 
- I am a young dev who codes for fun. I like to code in simple compiled languages & static like C. But I do have some experince in Python and luau. I like to learn simple languages and simple things. I am currently trying to learn [**Zig**](https://ziglang.org). I tried to understand Go but failed so I left that. I have learnt C++ in the past but I have quit it due to C being simpler , less complicated and more fun in my opinion. My toolset is mainly Linux. I don't use Windows for devolopment , I only use it when apps which don't run Linux even when using translaters like [**wine**](https://www.winehq.org/) or the translater is sketchy.
+ I am a young dev who codes for fun. I like to code in simple compiled languages & static like C. But I do have some experince in Python and luau. I like to learn simple languages and simple things. I am currently trying to learn C betterand looking for another language to learn. I am also trying to learn some usefull tools like Cmake or make , git , etc. I tried to understand Go but failed so I left that. I have learnt C++ in the past but I have quit it due to C being simpler , less complicated and more fun in my opinion. My toolset is mainly Linux. I don't use Windows for devolopment , I only use it when apps which don't run Linux even when using translaters like [**wine**](https://www.winehq.org/) or the translater is sketchy.
 
 
  And Thats my profile tour for now! Hope you enjoyed. If you got some time please do check out my repos I try my hardest to make open source projects and I would appreciate if you try to make my code better :D.
