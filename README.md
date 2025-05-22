@@ -25,7 +25,7 @@
 
 
 #### 💡 Fun Fact
-I started PyownLin because I wanted the power of Python with the speed and efficiency of compiled languages. And to get some experince and of course shoot myself in the leg because of C++?
+I started PyownLin because I wanted the power of Python with the speed and efficiency of compiled languages. And to get some experince and of course shoot myself in the leg because of C++.
 
 ---
 
