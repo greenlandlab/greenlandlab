@@ -20,7 +20,7 @@
 ---
 
 #### 🌟  Projects
-- **PyownLin** (Under going devolpment so is private for now)  
+- **PyownLin** (Under going devolpment so don't have high expectations for now. Won't take long for 0.1.0 aka initial release, I promise within this month)  
   *A new project to create a compiled version of Python because Python has fast dev time but isn't very portable or fast because of it being uncompiled*
 
 
